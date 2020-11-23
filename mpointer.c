@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//2020039032 조정호
+
 void func1(int* p);
 void func2(int** p);
 void func3(int*** p);
