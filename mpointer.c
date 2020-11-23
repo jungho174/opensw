@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-//2020039032 조정호
+/*
+
+2020039032 조정호
+
+opensw HW10
+
+*/
 
 void func1(int* p);
 void func2(int** p);
